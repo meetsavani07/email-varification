@@ -1,0 +1,16 @@
+
+                        ******** Package And Api Documentation ******** 
+
+(1) -> Express: A web framework for building APIs and web applications.
+
+(2) -> cookie-parser: Middleware to parse cookies in requests.
+
+(3) -> Mailtrap: A sandbox for testing email sending.
+
+(4) -> bcryptjs: Hashes passwords securely.
+
+(5) -> dotenv: Loads environment variables from .env files.
+
+(6) -> jsonwebtoken: Handles JSON Web Tokens for authentication.
+
+(7) -> crypto: Node.js module for cryptographic functions like hashing and encryption. 
