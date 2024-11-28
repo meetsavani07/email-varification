@@ -14,3 +14,11 @@
 (6) -> jsonwebtoken: Handles JSON Web Tokens for authentication.
 
 (7) -> crypto: Node.js module for cryptographic functions like hashing and encryption. 
+
+
+
+mongodb+srv://savanimeet11:<db_password>@cluster0.valjb.mongodb.net/?
+retryWrites=true&w=majority&appName=Cluster0
+
+MONGO_URL=mongodb+srv://savanimeet11:YyKYhB4XmX31IGzu@cluster0.valjb.mongodb.net/?
+retryWrites=true&w=majority&appName=Cluster0
